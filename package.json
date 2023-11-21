@@ -1,0 +1,19 @@
+{
+  "name": "backend-14-m4-c5",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev:1": "ts-node  --esm  ejercicio-1.ts",
+    "dev:2": "ts-node  --esm  ejercicio-2.ts",
+    "dev:3": "ts-node  --esm  ejercicio-3.ts",
+    "compile": "tsc"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
